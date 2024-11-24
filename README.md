@@ -1,7 +1,6 @@
 # Frontend Mentor - Expenses chart component
 
-## To see the design just click this link 
-[Link to the Website](https://adornadowilliam2.github.io/expenses-chart-component-main/)
+## To see the design just click this link: [Link to the Website](https://adornadowilliam2.github.io/expenses-chart-component-main/)
 ![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
